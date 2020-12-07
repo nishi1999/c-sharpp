@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\c#\GUItask\GUItask\obj\Debug\GUItask.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c#\GUItask\GUItask\obj\Debug\GUItask.Form1.resources
+C:\Users\User\Desktop\c#\GUItask\GUItask\obj\Debug\GUItask.Properties.Resources.resources
+C:\Users\User\Desktop\c#\GUItask\GUItask\obj\Debug\GUItask.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c#\GUItask\GUItask\obj\Debug\GUItask.csproj.CoreCompileInputs.cache
